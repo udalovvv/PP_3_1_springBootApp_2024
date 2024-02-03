@@ -1,4 +1,4 @@
-package com.example.springBootApp.entity;
+package com.example.springboot.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;
